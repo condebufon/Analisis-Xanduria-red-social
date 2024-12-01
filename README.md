@@ -23,7 +23,8 @@ Un dataset, o conjunto de datos, es una colección estructurada de información 
   ⏺ Me gusta
   ⏺ Veces que se compartió 
  ```
-<h1 align="ju"
+<h3 align=justify>
+
 1. Redes Sociales Actuales
 se esta utilizando ña red social de imstagran para evaluar el impacto y seguidores que se estan logrando para el juego, paguina web y marca
 
@@ -35,6 +36,6 @@ Shares: Miden la viralidad del contenido.
 
 3. Información Disponible
 todo lo relacionado a la informacion sobre publicacion se encuentra en 
-url = 'https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/tu_archivo.csv'  # Reemplaza con la URL correcta
-
+{% url = 'https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/tu_archivo.csv' %}  
+<img src="" alt="">
 
