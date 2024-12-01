@@ -37,5 +37,5 @@ Shares: Miden la viralidad del contenido.
 3. Información Disponible
 todo lo relacionado a la informacion sobre publicacion se encuentra en 
 {% url = 'https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/tu_archivo.csv' %}  
-<img src="" alt="">
+<img src="datos/publico.png" alt="">
 
