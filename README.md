@@ -37,7 +37,7 @@ Shares: Miden la viralidad del contenido.
 todo lo relacionado a la informacion sobre publicacion se encuentra en:
 
 <a href="https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/datos/publicacion.csv" target="_blank">
-<img width=700px height=400px src=proyecto/datos/publiciones.png></a>
+<img width=700px height=400px src=proyecto/datos/publicaciones.png></a>
 
   <a href="https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/graficas.ipynb" target="_blank"><img width=700px height=400px src=proyecto/datos/publico.png></a>
     
