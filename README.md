@@ -33,10 +33,9 @@ Número de Seguidores: Indica el alcance potencial.
 Likes y Comentarios: Reflejan el nivel de interacción y aceptación del contenido.
 Shares: Miden la viralidad del contenido.
 
-3. Información Disponible
+3.Información Disponible
 todo lo relacionado a la informacion sobre publicacion se encuentra en:
 </h3>
-
 
 <a href="https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/datos/publicacion.csv" target="_blank">
 <img width=700px height=400px src=proyecto/datos/publicaciones.png></a>
@@ -44,4 +43,6 @@ todo lo relacionado a la informacion sobre publicacion se encuentra en:
 
 <a href="https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/graficas.ipynb" target="_blank"><img width=700px height=400px src=proyecto/datos/publico.png></a>
     
-
+<a href="http://https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/graficas.ipynb"target="_blank">
+    <img src="proyecto/datos/genero.png" alt="">
+</a>
