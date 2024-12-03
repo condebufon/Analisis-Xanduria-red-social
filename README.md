@@ -1,7 +1,7 @@
 :construction: Analisis-Xanduria-red-social :construction:
 </h2>
 
-<h1>⏩⏩Trabajo futuro</div></h1>
+<h1>⏩⏩Trabajo en proceso</div></h1>
 
 <h3 align=justify>Dataset</h3>
 Un dataset, o conjunto de datos, es una colección estructurada de información que utilizo para analizar y comprender diferentes variables. Generalmente, lo veo como una tabla donde cada columna representa una variable específica y cada fila corresponde a un registro individual. Por ejemplo, en el dataset con el que estoy trabajando, tengo variables como:
@@ -34,7 +34,7 @@ Likes y Comentarios: Reflejan el nivel de interacción y aceptación del conteni
 Shares: Miden la viralidad del contenido.
 
 3.Información Disponible
-todo lo relacionado a la informacion sobre publicacion se encuentra en:
+todo lo relacionado a la informacion sobre publicacion se encuentra en "👁‍🗨 dar clic en la imagen de su interes👁‍🗨":
 </h3>
 
 <a href="https://github.com/condebufon/Analisis-Xanduria-red-social/blob/main/proyecto/datos/publicacion.csv" target="_blank">
